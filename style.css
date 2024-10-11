@@ -1,0 +1,33 @@
+.ol{
+    background-color: aqua;
+    margin-left: 400px;
+    border: 4px;
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    font-size: 60px;
+    
+}
+.ok{
+background-color: aquamarine;
+margin-left: 400px;
+border: 4px;
+margin-right: 40px;
+padding-top: 40px;
+padding-left: 40px;
+padding-bottom: 40px;
+font-size: 60px;
+
+}
+.ss{
+background-color: chocolate;
+margin-left: 400px;
+border: 4px;
+margin-right: 40px;
+padding-top: 40px;
+padding-left: 40px;
+padding-bottom: 40px;
+font-size: 60px;  
+
+}
